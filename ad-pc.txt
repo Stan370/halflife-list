@@ -332,6 +332,8 @@ pornhub.com##.hd.clear
 ! QQVideo
 !||ca.gtimg.com/adplugin/swf/MediaPlugin.swf
 ! Youtube
+youtube.com##.opened
+youtube.com##.ytd-popup-container
 youtube.com###contents>ytd-search-pyv-renderer
 youtube.com###video-masthead
 youtube.com###masthead-ad
